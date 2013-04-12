@@ -1,0 +1,21 @@
+{
+    "name": "rtablada/laravel-geocoder",
+    "description": "",
+    "authors": [
+        {
+            "name": "Ryan Tablada",
+            "email": "ryan.tablada@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x",
+        "willdurand/geocoder": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rtablada\\LaravelGeocoder": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
